@@ -72,9 +72,7 @@ countdown-distillation/
 │                                # saves: gemma_math_lora_final/
 │
 ├── 3_evaluate.ipynb             # Greedy vs Top-5 accuracy + breakdown by num count
-│
-├── data/
-│   └── sample_data.csv          # 200-row sample for quick start
+│  
 │
 └── README.md
 ```
